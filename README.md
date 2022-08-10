@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jolafin
 - 👀 I’m interested in test automation
-- 🌱 I’m currently learning front end development 
-- 💞️ I’m looking to collaborate on anything that interesting 
+- 🌱 I’m currently learning new tools
+- 💞️ I’m looking to collaborate on anything endearing
 - 📫 How to reach me; send an email
 
 <!---
